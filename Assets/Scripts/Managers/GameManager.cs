@@ -17,7 +17,7 @@ public class GameManager : SingletonMonobehaviour {
 		Messenger<bool>.AddListener ("requestTimeRemaining", OnRequestTimeRemaining);
 		Messenger<bool>.AddListener ("startLoading", OnStartLoading);
 		Messenger<Planet>.AddListener ("priorityCompleted", OnPriorityCompleted);
-		Messenger<int>.RemoveListener ("addPassengerCart", OnAddPassengerCart);
+		Messenger<int>.AddListener ("addPassengerCart", OnAddPassengerCart);
 	}
 
 	public override void Unload() {
