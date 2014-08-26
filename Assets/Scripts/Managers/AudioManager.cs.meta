@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4c2b1a85a77d95e439d7a0f0bc13b776
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ChooChooNormal: {fileID: 8300000, guid: fd3293f9f84cbb1488c65b371b7053b3, type: 3}
+  - ChooChooLower: {fileID: 8300000, guid: e5d926991427fc2409f15a7fba0c4a9e, type: 3}
+  - ChooChooLowest: {fileID: 8300000, guid: fd11fd684898edf49981c13022b16e7b, type: 3}
+  - TimeRunningOut: {fileID: 8300000, guid: c666eb20096b5424a9da3899236c36b6, type: 3}
+  - ReadyGo: {fileID: 8300000, guid: 00fc61904973c0d43a1f8ac5438fcc1d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

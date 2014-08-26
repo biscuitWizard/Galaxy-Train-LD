@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f1e9c69742ca6034993cae7c87a677cc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GalaxyMarker: {fileID: 100000, guid: 09642c56bad0a904eb191f735e0f3fff, type: 2}
+  - GalaxyNames: {fileID: 4900000, guid: 2cbdfa529f3da964ba6b29749378675f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
